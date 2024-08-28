@@ -31,7 +31,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      NEXT_PUBLIC_REPO_NAME: "/site-valdir-junior"
+      NEXT_PUBLIC_REPO_NAME: "/shape-control"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
