@@ -321,7 +321,7 @@ export default function Home() {
                   />
 
                   <h3 className="text-4xl font-light max-xl:text-2xl max-2md:text-xl">
-                    3x de R$ 100
+                    3x de R$ 108,49
                   </h3>
                 </div>
               </div>
